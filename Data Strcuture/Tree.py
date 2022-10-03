@@ -53,4 +53,25 @@ if __name__ == '__main__':
    # print(root.get_level())
     root.print_tree()
 
+"""
+Expected OutPut
+Electronics
+   |--Laptop
+      |--Mac
+      |--Surface
+      |--Thinkpad
+   |--Cell Phone
+      |--Iphone
+      |--Google pixel
+      |--Realme
+   |--TV
+      |--Samsung
+      |--MI
+      |--Apple
+
+
+
+
+"""
+
 
